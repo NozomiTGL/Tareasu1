@@ -23,7 +23,8 @@ hacer este formulario responsive
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: [LINK](https://nozomitgl.github.io/Tareasu1)
+
 ---
 
 ## 📝 Reflexión

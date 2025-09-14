@@ -23,7 +23,7 @@ con el fin de que se suscriban al newsletter.
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Deploy: [LINK](https://nozomitgl.github.io/Tareasu1)
 
 ---
 
